@@ -1,37 +1,27 @@
 [
     {
-        "albumId": 1,
         "id": 1,
         "title": "cristiano ronaldo",
         "url": "https://www.newsbox.pk/wp-content/uploads/2020/03/cristiano-ronaldo.jpg",
-        "thumbnailUrl": "https://www.newsbox.pk/wp-content/uploads/2020/03/cristiano-ronaldo.jpg"
     },
     {
-        "albumId": 1,
         "id": 2,
-        "title": "reprehenderit est deserunt velit ipsam",
-        "url": "https://via.placeholder.com/600/771796",
-        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+        "title": "neymar jr",
+        "url": "https://phantom-marca.unidadeditorial.es/97d38bb3195600411029231bd4ae2bef/crop/121x0/1501x921/resize/1200/f/jpg/assets/multimedia/imagenes/2022/09/13/16630884280855.png",
     },
     {
-        "albumId": 1,
         "id": 3,
-        "title": "officia porro iure quia iusto qui ipsa ut modi",
-        "url": "https://via.placeholder.com/600/24f355",
-        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+        "title": "lionel messi",
+        "url": "https://www.thefamouspeople.com/profiles/images/lionel-messi-2.jpg",
     },
     {
-        "albumId": 1,
         "id": 4,
-        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-        "url": "https://via.placeholder.com/600/d32776",
-        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+        "title": "lewandowski",
+        "url": "https://tconline.com.br/wp-content/uploads/2020/05/lewandowski-comemora-apos-marcar-para-o-bayern-de-munique-contra-o-union-berlin-1572104771295_v2_1920x1280.jpg",
     },
     {
-        "albumId": 1,
         "id": 5,
-        "title": "natus nisi omnis corporis facere molestiae rerum in",
-        "url": "https://via.placeholder.com/600/f66b97",
-        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+        "title": "vini jr",
+        "url": "https://apostagolos.com/wp-content/uploads/2022/05/vinicius-junior-2-scaled.jpg",
     }
 ]
