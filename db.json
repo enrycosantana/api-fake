@@ -1,27 +1,29 @@
-[
-    {
-        "id": 1,
-        "title": "cristiano ronaldo",
-        "url": "https://www.newsbox.pk/wp-content/uploads/2020/03/cristiano-ronaldo.jpg",
-    },
-    {
-        "id": 2,
-        "title": "neymar jr",
-        "url": "https://phantom-marca.unidadeditorial.es/97d38bb3195600411029231bd4ae2bef/crop/121x0/1501x921/resize/1200/f/jpg/assets/multimedia/imagenes/2022/09/13/16630884280855.png",
-    },
-    {
-        "id": 3,
-        "title": "lionel messi",
-        "url": "https://www.thefamouspeople.com/profiles/images/lionel-messi-2.jpg",
-    },
-    {
-        "id": 4,
-        "title": "lewandowski",
-        "url": "https://tconline.com.br/wp-content/uploads/2020/05/lewandowski-comemora-apos-marcar-para-o-bayern-de-munique-contra-o-union-berlin-1572104771295_v2_1920x1280.jpg",
-    },
-    {
-        "id": 5,
-        "title": "vini jr",
-        "url": "https://apostagolos.com/wp-content/uploads/2022/05/vinicius-junior-2-scaled.jpg",
-    }
-]
+{
+    "jogadores":[
+        {
+            "id": 1,
+            "title": "cristiano ronaldo",
+            "url": "https://www.newsbox.pk/wp-content/uploads/2020/03/cristiano-ronaldo.jpg",
+        },
+        {
+            "id": 2,
+            "title": "neymar jr",
+            "url": "https://phantom-marca.unidadeditorial.es/97d38bb3195600411029231bd4ae2bef/crop/121x0/1501x921/resize/1200/f/jpg/assets/multimedia/imagenes/2022/09/13/16630884280855.png",
+        },
+        {
+            "id": 3,
+            "title": "lionel messi",
+            "url": "https://www.thefamouspeople.com/profiles/images/lionel-messi-2.jpg",
+        },
+        {
+            "id": 4,
+            "title": "lewandowski",
+            "url": "https://tconline.com.br/wp-content/uploads/2020/05/lewandowski-comemora-apos-marcar-para-o-bayern-de-munique-contra-o-union-berlin-1572104771295_v2_1920x1280.jpg",
+        },
+        {
+            "id": 5,
+            "title": "vini jr",
+            "url": "https://apostagolos.com/wp-content/uploads/2022/05/vinicius-junior-2-scaled.jpg",
+        }
+    ]
+}
